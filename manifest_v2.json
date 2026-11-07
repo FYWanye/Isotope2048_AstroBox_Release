@@ -1,0 +1,36 @@
+{
+  "item": {
+    "id": "cn.waijade.Isotope.2048.rw6",
+    "restype": "quick_app",
+    "name": "同位素2048（红米手表6适配）",
+    "description": "同位素2048，带元素衰变机制的趣味 2048。本条目为红米手表6（432×514 矩形屏）适配版，由社区贡献者基于 CheongSzesuen/Isotope2048 适配。\n\n## 红米手表6 适配说明\n\n- 自动检测宽 400+ 的竖向矩形屏并切换 watch 布局（红米手表6/5 等）。\n- 棋盘 380×380、格子 88×88，放大元素符号与衰变倒计时角标。\n- 重排分数、按钮与关于页，适配 432×514 屏幕。\n\n本适配由上游源码 fork 而来，原始版权归原作者 CheongSzesuen（GPL-3.0）。",
+    "preview": ["cover.png"],
+    "icon": "icon.png",
+    "cover": "cover.png",
+    "author": [
+      {
+        "name": "CheongSzesuen",
+        "author_url": "https://github.com/CheongSzesuen"
+      },
+      {
+        "name": "FYWanye",
+        "author_url": "https://github.com/FYWanye"
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "同位素2048 开源仓库（上游）",
+      "url": "https://github.com/CheongSzesuen/Isotope2048",
+      "icon": "github-logo"
+    }
+  ],
+  "downloads": {
+    "xmrw6": {
+      "version": "1.3.5",
+      "file_name": "downloads/cn.waijade.Isotope.2048.release.1.3.5.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
